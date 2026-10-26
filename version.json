@@ -1,7 +1,6 @@
 {
-  "versionCode": 2.2,
-  "versionName": "1.1.0.2",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=11g_7AIcgpV0ZlKGFVmMJFbH28PMMh4N8&export=download&confirm=t",
-  "changelog": "- Tích hợp sẵn hơn 104 kênh truyền hình VN (VTV, HTV, THVL, SCTV...)\n- Thêm 2 nguồn trực tiếp bóng đá & thể thao\n- Tự động báo bản mới và tải về trực tiếp trên TV",
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://drive.usercontent.google.com/download?id=10X1EUhyjpFHOhgLsoZ9kCE2f_yts_3xL&export=download&confirm=t",
+  "changelog": "- Sửa toàn bộ nguồn kênh VTV & HTV & THVL tốc độ cao 100% hoạt động\n- Thêm các nguồn IPTV phong phú: All-In-One VN, IPTV Cơ Bản (477 kênh), Thể Thao Quốc Tế\n- Khắc phục lỗi phát bóng đá (StreamProxyServer tự động thêm Referer)\n- Hiển thị thông tin phiên bản ngay trên giao diện TV",
   "forceUpdate": false
-}
